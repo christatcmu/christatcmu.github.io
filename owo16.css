@@ -1,0 +1,87 @@
+* {
+  font-family: "Roboto", "San Francisco", "Segoe UI", "Helvetica Neue", "Helvetica", sans-serif;
+  box-sizing: inherit;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 400px;
+}
+@media (min-width: 401px) {
+  body {
+    margin-left: calc(50% - 200px);
+  }
+}
+
+a {
+  color: inherit;
+}
+
+a:visited {
+  color: #888;
+}
+
+.owo-day {
+  position: relative;
+  margin-top: 48px;
+  padding: 16px 8px 8px;
+  border: 6px solid black;
+}
+
+.owo-day--date {
+  display: inline-block;
+  position: absolute;
+  top: -40px;
+  left: 8px;
+  padding: 8px;
+  background-color: white;
+}
+
+.owo-day--day-of-week {
+  margin: 0 40px 0 0;
+  font-size: 3em;
+  line-height: 1em;
+}
+
+.owo-day--month, .owo-day--day-of-month {
+  position: absolute;
+  right: 8px;
+  width: 32px;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+}
+
+.owo-day--month {
+  top: 8px;
+}
+
+.owo-day--day-of-month {
+  bottom: 8px;
+  font-size: 1.5em;
+}
+
+.owo-event:not(:first-child) {
+  margin-top: 24px;
+}
+
+.owo-event--name {
+  font-size: 1.5em;
+  margin-bottom: 0;
+}
+
+.owo-event--time, .owo-event--place, .owo-event--description {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.owo-event--time, .owo-event--place {
+  display: inline-block;
+}
+
+.owo-event--time {
+  margin-right: 16px;
+}
