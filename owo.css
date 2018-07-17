@@ -122,7 +122,7 @@ body > header h2 {
   font-size: 4.23022vw;
   font-weight: bold;
   font-family: "Arvo";
-  color: #03940e; }
+  color: black; }
   @media (min-width: 960px) {
     #header .ifa-name {
       top: 8px;
@@ -706,7 +706,7 @@ figure.image figcaption {
   margin-bottom: 2%;
   padding: 8px;
   color: white;
-  background-image: url(img/ifa_blended.jpg);
+  background-image: url(img/acpnbw.jpg);
   background-size: cover;
   background-position: center;
   background-color: #03940e; }
@@ -757,15 +757,15 @@ figure.image figcaption {
   color: #bb5e00; }
 
 .subpanel-fellowships {
-  background-image: url(img/fellowship_blended.jpg);
+  background-image: url(img/acfretreat.jpg);
   background-position: 40% center; }
 
 .subpanel-churches {
-  background-image: url(img/church3_blended.jpg);
+  background-image: url(img/church.jpg);
   background-position: 70% center; }
 
 .subpanel-acpn {
-  background-image: url(img/acpn2_blended.jpg);
+  background-image: url(img/smores.jpg);
   background-position: 35% center; }
 
 .subpanel-title {
