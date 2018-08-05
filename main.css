@@ -198,13 +198,13 @@ body > header h2 {
   height: 100%;
   margin: 0;
   padding: 10px 6px 0;
-  border: 1px #03940e solid;
+  border: 1px black solid;
   border-radius: 3px;
   font-size: 20px;
   text-transform: uppercase;
   text-decoration: none;
   font-family: "Source Sans Pro";
-  color: #03940e;
+  color: black;
   outline: none;
   -webkit-tap-highlight-color: transparent;
   tap-highlight-color: transparent;
@@ -230,7 +230,7 @@ body > header h2 {
 
 #nav-links a.active, #nav-links a:active {
   color: white;
-  background-color: #03940e;
+  background-color: black;
   box-shadow: none; }
   @media (min-width: 960px) {
     #nav-links a.active, #nav-links a:active {
@@ -390,7 +390,7 @@ article header h3, article header p {
 
 article header h3 {
   margin: 0 auto 12px;
-  color: #03940e; }
+  color: black; }
 
 article header p {
   margin: 0 auto; }
@@ -475,7 +475,7 @@ article p a:hover {
         margin-left: 1%; } }
 
 #fellowship .rwd-col h4, .church-name, #other-groups .rwd-col h4 {
-  color: #03940e; }
+  color: black; }
 
 #fellowship .info-session, .church-notice {
   color: #bb5e00;
@@ -709,7 +709,7 @@ figure.image figcaption {
   background-image: url(img/acpnbw.jpg);
   background-size: cover;
   background-position: center;
-  background-color: #03940e; }
+  background-color: black; }
   @media (min-height: 550px) {
     .panel--main {
       background-position: center 20%; } }
@@ -745,7 +745,7 @@ figure.image figcaption {
   overflow: hidden;
   color: white;
   background-size: cover;
-  background-color: #03940e;
+  background-color: black;
   transition: background-color .2s, transform .2s, color .02s; }
   .subpanel:not(:last-child) {
     margin-right: 2%; }
@@ -791,67 +791,67 @@ figure.image figcaption {
   color: #454545; }
 
 #event0, .event0-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event1, .event1-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event2, .event2-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event3, .event3-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event4, .event4-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event5, .event5-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event6, .event6-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event7, .event7-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 #event8, .event8-infocard {
-  background-color: #03940e;
+  background-color: black;
   /* there's no border on these elements; this is so that javascript
    * can read the original color rather than the hover/active color
    */
-  border-color: #03940e; }
+  border-color: black; }
 
 @media (min-width: 960px) {
   #event0:hover {
