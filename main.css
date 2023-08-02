@@ -341,7 +341,7 @@ footer p.connect {
 #links figure img {
   max-height: 24px; }
 
-#links figure#bridge img {
+#links figure#tartan-connect img {
   max-height: 27px; }
 
 #links figure figcaption {
@@ -362,10 +362,10 @@ footer p.connect {
   left: -110px;
   top: 5px; }
 
-#links figure#bridge:hover figcaption {
+#links figure#tartan-connect:hover figcaption {
   position: absolute;
   display: block !important;
-  left: -155px;
+  left: -182px;
   top: 5px; }
 
 /* Article Styles */
