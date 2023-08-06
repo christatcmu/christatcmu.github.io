@@ -409,6 +409,7 @@ article h4 {
   font-size: 20px;
   font-family: Arvo;
   font-weight: normal;
+  color: rgb(45, 144, 201);
   clear: both; }
 
 article h4 a {
@@ -480,6 +481,11 @@ article p a:hover {
 #fellowship .info-session, .church-notice {
   color: #bb5e00;
   margin-bottom: .5em; }
+
+ #fellowship .contacts {
+  color: gray;
+  text-align: center
+ } 
 
 #fellowship .rwd-col:target {
   border: 2px #ffc992 solid;
