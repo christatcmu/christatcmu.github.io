@@ -482,11 +482,15 @@ article p a:hover {
   color: #bb5e00;
   margin-bottom: .5em; }
 
- #fellowship .contact {
+ #fellowship .contacts, #other-groups .contacts {
   color: gray;
-  font-size: 20px;
-  text-align: center
+  margin-bottom: .5em;
  } 
+
+ #fellowship .contacts::before, #other-groups .contacts::before {
+   content: "Contacts: ";
+   font-style: italic;
+ }
 
 #fellowship .rwd-col:target {
   border: 2px #ffc992 solid;
