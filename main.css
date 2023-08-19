@@ -482,8 +482,9 @@ article p a:hover {
   color: #bb5e00;
   margin-bottom: .5em; }
 
- #fellowship .contacts {
+ #fellowship .contact {
   color: gray;
+  font-size: 20px;
   text-align: center
  } 
 

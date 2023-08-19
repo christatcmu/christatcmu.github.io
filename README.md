@@ -12,4 +12,5 @@ Website for CMU's Inter-Fellowship Association
   </ul>
 <li>churches.html: Pay attention to service times and locations</li>
 <li>fellowships.html: Fellowship info and include info session details, if applicable</li>
+<li>Calendar.html and defunct.html currently not in use.</li>
 </ul>
