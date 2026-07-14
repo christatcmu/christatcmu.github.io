@@ -485,6 +485,7 @@ article p a:hover {
  #fellowship .contacts, #other-groups .contacts {
   color: gray;
   margin-bottom: .5em;
+  display: none;
  } 
 
  #fellowship .contacts::before, #other-groups .contacts::before {
